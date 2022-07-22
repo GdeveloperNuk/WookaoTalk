@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\bin\Debug\WookaoTalk.exe.config
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\bin\Debug\WookaoTalk.exe
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\bin\Debug\WookaoTalk.pdb
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\View.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\LoginUI.g.cs
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\App.g.cs
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\WookaoTalk_MarkupCompile.cache
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\WookaoTalk_MarkupCompile.lref
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\LoginUI.baml
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\WookaoTalk.g.resources
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\WookaoTalk.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\WookaoTalk.exe
+C:\Users\USER\Documents\GitHub\WookaoTalk\WookaoTalk\WookaoTalk\obj\Debug\WookaoTalk.pdb
