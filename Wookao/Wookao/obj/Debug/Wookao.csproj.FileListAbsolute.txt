@@ -17,3 +17,4 @@ C:\Users\USER\Documents\GitHub\WookaoTalk\Wookao\Wookao\obj\Debug\Wookao.csproj.
 C:\Users\USER\Documents\GitHub\WookaoTalk\Wookao\Wookao\obj\Debug\Wookao.exe
 C:\Users\USER\Documents\GitHub\WookaoTalk\Wookao\Wookao\obj\Debug\Wookao.pdb
 C:\Users\USER\Documents\GitHub\WookaoTalk\Wookao\Wookao\obj\Debug\Dictionary.baml
+C:\Users\USER\Documents\GitHub\WookaoTalk\Wookao\Wookao\obj\Debug\App.baml

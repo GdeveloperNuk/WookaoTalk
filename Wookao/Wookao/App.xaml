@@ -5,6 +5,60 @@
              StartupUri="LoginUI.xaml"
              >
     <Application.Resources>
-         
+        <!--TextBox Style-->
+        <Style x:Key="sPlatTextBox" BasedOn="{x:Null}" TargetType="{x:Type TextBox}">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBoxBase}">
+                        <Border>
+                            <ScrollViewer Margin="0" x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="FocusVisualStyle">
+                <Setter.Value>
+                    <Style>
+                        <Setter Property="Control.Template">
+                            <Setter.Value>
+                                <ControlTemplate>
+                                    <ContentPresenter/>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+        <Style x:Key="sPlatUnderLineTextBox" BasedOn="{x:Null}" TargetType="{x:Type TextBox}">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBoxBase}">
+                        <Border BorderBrush="#FFA5A3A3" BorderThickness="0, 0, 0, 1">
+                            <ScrollViewer Margin="0" x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <!--TextBox Style-->
+
+        <!--PasswordBox Font Style-->
+        <Style x:Key="sPlatPasswordBox" BasedOn="{x:Null}" TargetType="{x:Type PasswordBox}">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type PasswordBox}">
+                        <Border>
+                            <ScrollViewer Margin="0" x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <!--TextBox Font Style END-->
     </Application.Resources>
 </Application>
